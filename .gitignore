@@ -1,2 +1,7 @@
 node_modules
 package-lock.json
+front-end/node_modules
+front-end/package-lock.json
+front-end/README.md
+front-end/public
+front-end/.gitignore
